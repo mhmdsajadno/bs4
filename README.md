@@ -14,7 +14,7 @@ This Python script is designed to scrape car images from the Sheypoor website ba
 
 1. Clone or download this repository to your local machine.
 
-2. Install the required Python libraries, including Selenium and BeautifulSoup, using `pip install -r requirements.txt`.
+2. Install the required Python libraries, including Selenium and BeautifulSoup.
 
 3. Download the Chrome WebDriver and place it in the same directory as the script. Make sure it matches your Chrome browser version.
 
